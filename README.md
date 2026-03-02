@@ -1,4 +1,6 @@
 🏥 Healthcare Revenue Cycle Intelligence & Claim Lifecycle Analytics (SQL)
+
+
 1️⃣ Project Overview
 
 This project analyzes healthcare claim lifecycle efficiency, financial exposure, provider approval quality, and submission channel productivity using SQL-based business intelligence techniques.
